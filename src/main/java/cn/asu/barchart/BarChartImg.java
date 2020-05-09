@@ -50,5 +50,5 @@ public class BarChartImg {
 //        ChartUtilities.saveChartAsJPEG(f, barChart, 522, 60);
         ChartUtilities.saveChartAsPNG(f, barChart, 666, 999);
     }
-
 }
+//原文出自【易百教程】，商业转载请联系作者获得授权，非商业请保留原文链接：https://www.yiibai.com/jfreechart/jfreechart_bar_chart.html

@@ -42,5 +42,5 @@ public class JFreeChartApplication extends ApplicationFrame {
         RefineryUtilities.centerFrameOnScreen(chart);
         chart.setVisible(true);
     }
-
 }
+//原文出自【易百教程】，商业转载请联系作者获得授权，非商业请保留原文链接：https://www.yiibai.com/jfreechart/jfreechart_bar_chart.html
